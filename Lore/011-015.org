@@ -1,0 +1,23 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* 011
+
+  世界の様々な地域に，同じ模様をもつ遺跡が点在しているという。位置も作
+  られた年代もバラバラで，目的すら不明である。ある地質研究者によれば，
+  数億年後，大陸移動によって全ての遺跡が一直線になるのだそうだ。予想さ
+  れる線の先には，天の川銀河の中心が位置しているという。
+
+
+<br>
+[[https://github.com/jamcha-aa/Lore][目次]]
+<br>
+
+* 注
+  この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
+
+  Copyright (c) 2016 jamcha (jamcha.aa@gmail.com).
+
+  This document is under a [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][License Creative Commons Attribution Non Commercial Share Alike 4.0 International]]
+
+  [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][file:http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png]]
